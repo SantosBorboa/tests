@@ -3,4 +3,5 @@ export default class Uno {
         this.data = {};
     }
     getData(){return this.data?this.data:''}
+    
 }
