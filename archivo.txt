@@ -4,9 +4,5 @@ otra cosa para que truene
 segundo 
 tercero
 cuarto
-<<<<<<< HEAD
-quinto
-=======
->>>>>>> tests
 
  
