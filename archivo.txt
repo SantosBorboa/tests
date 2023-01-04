@@ -4,5 +4,10 @@ otra cosa para que truene
 segundo 
 tercero
 cuarto
+<<<<<<< HEAD
+
+ 
+=======
 quinto
  
+>>>>>>> 1638a5d568ec5e440e5eb82b7be0351d670ceb9d
